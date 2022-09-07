@@ -8,3 +8,10 @@ listen:
   port: 10007
 app:
   log_level: trace # lower case
+telegram:
+  token: 5718752014:AAHyxPpWOccg-zEjWzGVviDvN-CcO0km0DY
+rabbitmq:
+  host: localhost
+  port: 5672
+  username: user
+  password: password
